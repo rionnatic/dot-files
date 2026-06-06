@@ -1,0 +1,5 @@
+@import "argon-purple.rasi"
+
+window {
+	background-image:	url("jayabg.png", height);
+}
