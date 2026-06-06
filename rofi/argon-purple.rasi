@@ -18,7 +18,7 @@ window {
 	border:				1px;
 	border-color:		@foreground;
 	border-radius:		10;
-	width:				40%;
+	width:				40%; /* height * 48 / 31 */
 }
 inputbar {
 	children:	[ icon-search, entry];
